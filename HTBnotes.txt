@@ -1,0 +1,25 @@
+##############
+HTB NOTES HERE
+##############
+This can act a place to copy and paste credentials, flags, keys, notes, etc. Depending on the 
+configuration of your OS this may be open in a program called nano. In which case you will need
+to hit ctrl+O to save and when asked yes/no select yes. To exit press ctrl+x.
+
+You can also begin editing and deleting this content as you see fit... Just remember to save! 
+Or leave it here as a momento and think about the creator everytime you see it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+				"give a man a gun, and he can rob a bank
+				give a man a bank, and he can rob the world"
+						-unknown
