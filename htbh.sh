@@ -71,7 +71,7 @@ while true; do
     echo "$(tput sgr0)"
     
     echo "$(bold_green "Welcome to the HTB Helper")"
-    echo "$(bold_green "Created by you friend apollyon")"
+    echo "$(bold_green "Created by your friend apollyon")"
     echo ""
 
     get_tun0_ip
