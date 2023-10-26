@@ -1,6 +1,6 @@
 # HTBhelper
 
-An organized framework built with bash designed for the Hack The Box platform.  
+ A customizable bash framework for Hack The Box practitioners | Quick Connect VPN Option | Built In Pen Testing Cheat Sheet
 
 ![mainscreen](https://github.com/B4MNsec/HTBhelper/assets/89555622/5123f183-3290-48a8-b548-757871632219) 
 
